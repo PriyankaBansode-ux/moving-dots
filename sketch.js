@@ -8,7 +8,7 @@ function setup() {
   background(21,74,73);
 
   //take a big brush
-  strokeWeight(10);
+  strokeWeight(30);
   //dip it in purple colour
   stroke('yellow');
   frameRate(10);
