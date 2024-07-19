@@ -20,5 +20,5 @@ function draw() {
   let posY = mouseY;
   let posX = mouseX;
   //place a dot on screen 
-  point(posX, posY)
+  point(posY, posX)
 }
